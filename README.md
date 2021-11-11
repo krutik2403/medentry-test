@@ -13,7 +13,7 @@ npm run dev
 
 3. Copy `.env.example` to `.env` and fill out the database credentials
 ```
-cp .env .env.example
+cp .env.example .env
 ```
 
 4. Run key generate, migrations and seeders
